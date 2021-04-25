@@ -28,7 +28,7 @@ class NeuralLayer:
             Layer weights.
         bias : numpy.ndarray
             Layer bias.
-        use_bipolar : TYPE, optional
+        use_bipolar : bool, optional
             A flag used to define which activation function to use. The default is False.
 
         Returns
