@@ -1,0 +1,2 @@
+Decisions tree score = 0.8076923076923077
+Random forest score = 0.8181818181818182
